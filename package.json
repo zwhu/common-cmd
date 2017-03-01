@@ -1,0 +1,26 @@
+{
+  "name": "common-cmd",
+  "version": "0.0.1",
+  "description": "常用命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwhu/common-cmd.git"
+  },
+  "keywords": [
+    "node",
+    "cmd"
+  ],
+  "author": "zwhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwhu/common-cmd/issues"
+  },
+  "homepage": "https://github.com/zwhu/common-cmd#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
+}
